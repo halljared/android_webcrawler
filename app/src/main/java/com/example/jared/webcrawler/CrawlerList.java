@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-public class CrawlerList extends AppCompatActivity {
+public class CrawlerList extends BaseActivity {
 
     ListView listView;
     TextView urlLabel;
